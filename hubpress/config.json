@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "username": "winstonhoseadriggins",
+    "repositoryName": "winstonhoseadriggins.github.io",
+    "branch": "gh-pages"
+  },
+  "theme": {
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://winstonhoseadriggins.github.io/winstonhoseadriggins.github.io",
+    "hubpress": "https://winstonhoseadriggins.github.io/winstonhoseadriggins.github.io",
+    "theme": "//winstonhoseadriggins.github.io/winstonhoseadriggins.github.io/themes/casper",
+    "images": "https://winstonhoseadriggins.github.io/winstonhoseadriggins.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
+  }
+}
